@@ -1,0 +1,10 @@
+# Artefactos generados o pesados (no versionar)
+**/dart-sdk/
+**/build/
+**/bin/*.exe
+*.exe
+
+# Dart / Pub
+**/.dart_tool/
+**/.pub-cache/
+**/.packages
